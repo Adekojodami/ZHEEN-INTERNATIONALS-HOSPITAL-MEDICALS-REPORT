@@ -1,6 +1,6 @@
 # ABSTRACTS
 
-! [](med dash1.png) 
+! [](med dash.png) 
 
 # INTRODUCTION
 
